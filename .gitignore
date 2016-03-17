@@ -1,4 +1,4 @@
-.gradle
+#Mac OSX files
 .DS_Store
 
 # built application files
@@ -41,3 +41,4 @@ project.properties
 ##Gradle-based build
 .gradle
 build/
+gradle/
